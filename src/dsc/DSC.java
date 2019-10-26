@@ -16,6 +16,8 @@ public class DSC {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        int firstNumber = 10, secondNumber = 10;
+        System.out.println(firstNumber+secondNumber);
     }
     
 }
